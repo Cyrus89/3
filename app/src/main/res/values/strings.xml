@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hej!</string>
+    <string name="lewo">W lewo</string>
+    <string name="prawo">W prawo</string>
+    <string name="stop">Stop!</string>
+    <string name="Imie">Imię sówki</string>
+    <string name="ButtonImie">Klik!</string>
+    <string name="Podsumowanie">Podsumowanie</string>
+</resources>
